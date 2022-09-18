@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EBA24C70-2A4F-EEFD-6D52-7AEE290CE1EA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SelectorController.cs">
+    <Files>
+      <File FileName="Assets/SelectorController.cs" Line="15" Column="26" />
+      <File FileName="Assets/Scripts/PlayerSave.cs" Line="16" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dice Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SelectorController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1448320a-107e-4058-9435-1f92e628f74b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
